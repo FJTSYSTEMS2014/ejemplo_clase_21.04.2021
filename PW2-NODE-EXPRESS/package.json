@@ -1,0 +1,14 @@
+{
+  "name": "pw2-node-express",
+  "version": "1.0.0",
+  "description": "Ejercicio de Prueba clase PW2  21/04/2021 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ing. Franck Tscherig",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
